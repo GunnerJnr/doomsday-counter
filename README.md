@@ -7,7 +7,10 @@ The counter can be viewed [here](http://gunnerjnr.uk/doomsday/).
 ## KNOWN BUGS
 
 1. Not yet mobile responsive
-2. By the time you view this the counter may have already reached the end of its life and just display zero, a simple fix would be to open your developer changes and change the values in countdown.js for `countdownDate` and `breakdownDate`.
+2. By the time you view this the counter may have already reached the end of its life and just display all zeros, a simple fix would be to change the values in `countdown.js` for both
+
+`countdownDate`
+`breakdownDate`
 
 ### example
 
